@@ -27,7 +27,7 @@ const Home = (navigation) => {
                       <View style={styles.homeWrapper}>
                       {/*<Feather name="menu" size={32} color={colors.gray} style={styles.menuIcon} />*/}
                       <Text style={styles.homeTitle}>
-                           Welcome
+                           Welcome!!
                       </Text>
                       <Image source={profile} style={styles.profileImage} />
                       </View>
