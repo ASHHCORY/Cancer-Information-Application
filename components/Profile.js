@@ -24,7 +24,7 @@ class Profile extends Component {
   render(){
     return (
       <View>     
-      <Text style={styles.textProfile}>Profile</Text>
+      <Text style={styles.textProfile}>Profile!!</Text>
         <View style={styles.container}>
           <SafeAreaView>
             <View>
